@@ -1,0 +1,17 @@
+{
+  "git_revision": "6b92ca27f3ee5734c9e3c651259d9b1a496a582f",
+  "artifacts": {
+    "installer": {
+      "filename": "ncInvaders-2026.05.r1-6b92ca2-Win64-VS2022.exe",
+      "size": 2689528,
+      "timestamp": "2026-05-13T00:16:37Z",
+      "sha256": "45bf6ec362cfd423896acafccac216b74a5c8cd12db60fc02a18b63ce7d0fc15"
+    },
+    "portable": {
+      "filename": "ncInvaders-2026.05.r1-6b92ca2-Win64-VS2022.zip",
+      "size": 3255718,
+      "timestamp": "2026-05-13T00:16:38Z",
+      "sha256": "90be24c4fff49e62ba4933245aba086b72de2bdedd03517ff453df3301bf22d7"
+    }
+  }
+}
